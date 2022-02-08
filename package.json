@@ -1,0 +1,22 @@
+{
+  "name": "webrtc",
+  "version": "1.0.0",
+  "description": "VideoConferencing App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cjorasia/WebRTC.git"
+  },
+  "author": "Aman Kumar and Chirag Jorasia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cjorasia/WebRTC/issues"
+  },
+  "homepage": "https://github.com/Cjorasia/WebRTC#readme",
+  "dependencies": {
+    "concurrently": "^7.0.0"
+  }
+}
